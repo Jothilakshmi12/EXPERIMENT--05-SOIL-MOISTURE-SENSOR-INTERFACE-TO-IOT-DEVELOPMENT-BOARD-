@@ -224,6 +224,7 @@ soilmoist=adc_val/10.24;
 ## Output screen shots on serial monitor   :
  
  ![WhatsApp Image 2024-05-10 at 09 17 35_b813e631](https://github.com/Jothilakshmi12/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/138849182/47dc9e3d-d20b-40bc-bf81-22527732f88b)
+![WhatsApp Image 2024-05-10 at 09 24 15_19a767d0](https://github.com/Jothilakshmi12/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/138849182/24c83a66-ed34-4cbb-a3db-64db893e0bed)
 
  
  
